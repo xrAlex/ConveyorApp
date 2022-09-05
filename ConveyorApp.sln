@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConveyorApp", "ConveyorApp.csproj", "{0119BBA9-CE43-419C-9210-FF9C074349C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0119BBA9-CE43-419C-9210-FF9C074349C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0119BBA9-CE43-419C-9210-FF9C074349C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0119BBA9-CE43-419C-9210-FF9C074349C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0119BBA9-CE43-419C-9210-FF9C074349C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC51338D-C2C9-4400-8C89-E9408ED31E3F}
+	EndGlobalSection
+EndGlobal
